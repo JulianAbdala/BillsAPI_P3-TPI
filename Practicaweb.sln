@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practicaweb.API", "Practicaweb.API\Practicaweb.API.csproj", "{FC32E8F7-5616-4F93-88DD-B59E85F53865}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC32E8F7-5616-4F93-88DD-B59E85F53865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC32E8F7-5616-4F93-88DD-B59E85F53865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC32E8F7-5616-4F93-88DD-B59E85F53865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC32E8F7-5616-4F93-88DD-B59E85F53865}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6897E85-E4BC-486B-9470-385C0BD2F006}
+	EndGlobalSection
+EndGlobal
